@@ -46,7 +46,7 @@ canvas {
     border-radius: 20px;
 }
 
-#btnplay {
+#btnplay,#btnpause {
     background-color: rgb(151, 151, 253);
     font-size: 25px;
     width: 150px;
